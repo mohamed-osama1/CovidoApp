@@ -1,0 +1,46 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=92:9B:8D:AE:A5:D7:1A:67:A7:02:B0:8C:84:05:6E:4D:14:89:95:14%3Bcom.example.covido
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.example.covido
+
+    SHA-1 certificate fingerprint:
+    92:9B:8D:AE:A5:D7:1A:67:A7:02:B0:8C:84:05:6E:4D:14:89:95:14
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="AIzaSyBMtV6jJgrqDqtqYzjSc90UEGhhbZlfTRs" templateMergeStrategy="preserve" translatable="false">YOUR_KEY_HERE</string>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=92:9B:8D:AE:A5:D7:1A:67:A7:02:B0:8C:84:05:6E:4D:14:89:95:14%3Bcom.example.covido
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.example.covido
+
+    SHA-1 certificate fingerprint:
+    92:9B:8D:AE:A5:D7:1A:67:A7:02:B0:8C:84:05:6E:4D:14:89:95:14
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" translatable="false">AIzaSyBMtV6jJgrqDqtqYzjSc90UEGhhbZlfTRs</string>
+</resources>
